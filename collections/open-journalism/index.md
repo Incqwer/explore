@@ -13,7 +13,6 @@ items:
  - dukechronicle/chronline
  - BloombergMedia/whatiscode
  - times/cardkit
- - mkiser/WTFJHT
 display_name: Open journalism
 created_by: benbalter
 ---
